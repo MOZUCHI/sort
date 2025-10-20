@@ -1,0 +1,13 @@
+﻿  BubbleSort.cpp
+  InsertionSort.cpp
+  Main.cpp
+D:\Arikata Chihiro\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244: '初期化中': '_Rep' から 'double' への変換です。データが失われる可能性があります。
+D:\Arikata Chihiro\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:         with
+D:\Arikata Chihiro\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:         [
+D:\Arikata Chihiro\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:             _Rep=__int64
+D:\Arikata Chihiro\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:         ]
+  QuickSort.cpp
+  RadixSort.cpp
+  SelectionSort.cpp
+  コードを生成中...
+  ソート.vcxproj -> D:\Arikata Chihiro\GitHub\ソート\x64\Debug\ソート.exe
